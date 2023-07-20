@@ -5,7 +5,7 @@ def connect_to_server():
     server_host = "izani.synology.me"
     server_port = 8443
 
-    # UiTM Student ID
+    # Put your UiTM Student ID 
     student_id = "2021887274"
 
     # Create a socket object
