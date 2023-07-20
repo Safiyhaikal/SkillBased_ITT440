@@ -1,7 +1,7 @@
 import socket
 
 def connect_to_server():
-    # Server information
+    #Server information
     server_host = "izani.synology.me"
     server_port = 8443
 
